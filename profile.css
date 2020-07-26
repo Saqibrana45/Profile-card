@@ -1,0 +1,39 @@
+.container{
+    margin:0px auto;
+    text-align: center;
+    width: 300px;
+    border: 2px solid black;
+    margin-top: 50px;
+    
+}
+img{
+    width: 100%;
+    height: auto;
+}
+p{
+    font-size: 17px;
+}
+.ceo{
+    color: gray;
+    font-size: 20px;
+}
+div a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+.link-cont{
+    padding: 20px;
+}
+button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+    outline:0px;
+}
+.para-btn{
+    background-color: black;
+    margin:0px;
+}
